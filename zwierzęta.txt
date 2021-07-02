@@ -1,2 +1,4 @@
 koń
 jeżozwierz
+
+kotek 
